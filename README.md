@@ -1,3 +1,4 @@
-# My Awesome Book
+# 兑吧后台使用手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+该手册将列举兑吧后台的功能点和各模块的使用方法
+
